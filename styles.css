@@ -1,0 +1,31 @@
+h1{
+    color: navy;
+}
+h1, h2, h3, p{
+    margin-top: 2%;
+    text-align: center;
+}
+
+ul{
+    margin-left: 550px;
+}
+
+ol{
+    margin-left: 550px;
+}
+
+.imagem{
+    max-width:150px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
+
+.mode{
+    max-width:120px;
+    max-height:70px;
+    width: auto;
+    height: auto;
+}
+
+
